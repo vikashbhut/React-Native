@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574906109712",
+    "firebase_url": "https://khatadairy-edfb7.firebaseio.com",
+    "project_id": "khatadairy-edfb7",
+    "storage_bucket": "khatadairy-edfb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574906109712:android:0a823d431e6048b0395f95",
+        "android_client_info": {
+          "package_name": "com.khatadairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574906109712-5d9mogkd6kvnu6b95opkmg17bbuvq5lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGgg6WnJQCzhFEjbh5LAyvENuFGODBrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574906109712-5d9mogkd6kvnu6b95opkmg17bbuvq5lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
